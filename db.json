@@ -7,31 +7,38 @@
   ],
   "price": [
     {
+      "id": "011-016"
       "origem": "011",
       "destino": "016",
       "valor": 1.90
     },
     {
+      
+      "id": "011-017"
       "origem": "011",
       "destino": "017",
       "valor": 1.70
     },
     {
+      "id": "011-018"
       "origem": "011",
       "destino": "018",
       "valor": 0.90
     },
     {
+      "id": "016-011"
       "origem": "016",
       "destino": "011",
       "valor": 2.90
     },
     {
+      "id": "017-011"
       "origem": "017",
       "destino": "011",
       "valor": 2.70
     },
     {
+      "id": "018-011"
       "origem": "018",
       "destino": "011",
       "valor": 1.90
